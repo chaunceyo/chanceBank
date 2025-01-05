@@ -5,7 +5,7 @@ const Header = () => {
    
     return (
       <header className="App-header">
-        <h1>chanceBank</h1>
+        <h1 className='chance-bank'>chanceBank</h1>
       </header>
     );
 };

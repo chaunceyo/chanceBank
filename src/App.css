@@ -1,0 +1,16 @@
+.App-header {
+    background-color: #003b12eb;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    font-size: calc(1px + 2vmin);
+    font-family: Optima, Candara, 'Noto Sans', source-sans-pro, sans-serif;
+    color: rgb(255, 255, 255);
+  }
+
+  .chance-bank{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 100px;
+  }
